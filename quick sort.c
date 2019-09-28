@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 /* quick sort
- *
+ * bom quando está muito embaralhado, quanto mais melhor
+ * complexidade nlogn, no pior caso n²
  */
 
 //Irineu A. Silva
