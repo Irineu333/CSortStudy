@@ -1,2 +1,2 @@
-# Sort C Study
+# Objetivo
 Estudar funções de ordenação em C
